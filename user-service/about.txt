@@ -1,0 +1,3 @@
+============= About Spring Cloud Fiegn =============
+01) Feign is a declarative web service client. It makes writing web service clients easier. To use Feign create an interface and annotate it.
+02) One of the advantages of using Feign over RestTemplate is that, we do not need to write any implementation to call the other services. So there is     no need to write any unit test as there is no code to test in the first place.
